@@ -34,7 +34,7 @@
         "sharp": "^0.27.1",
         "shortid": "^2.2.16",
         "uuid": "^8.3.2",
-        "winston": "^3.3.3",
+        "winston": "^3.8.0",
         "yup": "^0.29.3"
     },
     "devDependencies": {
